@@ -4,7 +4,7 @@ About me:
 - 💻 I’m currently working at Capgemini. 
 - 🎓 Student of the Bachelor of Physics.
 - 📘 I’m currently learning Java and Angular.
-- 💙 Love:Pets, Lord of the Rings, friends, have new experiences. 
+- 💙 Love: Pets, Lord of the Rings, friends, have new experiences. 
 
 ##
 
